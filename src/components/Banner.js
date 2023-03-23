@@ -44,7 +44,10 @@ const Banner = () => {
               viewport={{ once: false, amount: 0.7 }}
               className="mb-8 max-w-lg mx-auto lg:mx-0"
             >
-              Story
+              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Error
+              eligendi quas minima quia neque aperiam praesentium a deserunt et
+              enim odit voluptatum, soluta quisquam. Voluptatem suscipit facere
+              impedit velit autem!
             </motion.p>
             <motion.div
               variants={fadeIn("up", 0.6)}
